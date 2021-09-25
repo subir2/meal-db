@@ -1,0 +1,16 @@
+.item_details{
+    margin-top: 50px;
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+}
+.All-item{
+    display: grid;
+    grid-template-columns: 3fr;
+}
+.btn{
+    background-color: goldenrod;
+    border:1px solid lightgray;
+    height: 40px;
+    width: 130px;
+    border-radius: 10px;
+}
